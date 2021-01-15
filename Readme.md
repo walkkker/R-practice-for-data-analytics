@@ -1,11 +1,11 @@
-###Programming practice for R tutorial provided by the course of Data analytics with high performance computing. 
+### Programming practice for R tutorial provided by the course of Data analytics with high performance computing. 
 
-##Downloading R
+## Downloading R
 
 https://cran.r-project.org/index.html
 
 
-##Downloading Rstudio
+## Downloading Rstudio
 
 https://rstudio.com/products/rstudio/ 
 
